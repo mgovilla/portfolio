@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Goatbook
+subtitle: HACK@WPI 2020 Project
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: goatbook.png
+thumbnail: goatbook-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2021
+client: None
+category: Mobile Development
+description: Goatbook allows users to dynamically subscribe to groups of their interests and join queues based on what activities they want to participate in. Goatbook will send notifications to subscribed users when a queue becomes full, and will put all users in a queue into an anonymous chatroom to decide whether they would like to share details and meet up, whether that be in a small group or online.
 
 ---

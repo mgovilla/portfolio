@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Mafia Bot
+subtitle: Slack Bot
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: mafia.gif
+thumbnail: mafia-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2021
+client: Sigma Pi Gamma Iota
+category: Slack Bot
+description: In this project, I wrote a Slack bot that would moderate the game of Real Time Mafia. Users were assigned roles and could submit actions each night, and these actions would refer to other players. At the end of the night, the actions would be compiled and sent to the mod team to be resolved. 
 
 ---

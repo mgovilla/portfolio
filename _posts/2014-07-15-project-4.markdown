@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 3D Scanner
+subtitle: Intern Project
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: scanner.gif
+thumbnail: scanner-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2019
+client: Nova Product Design
+category: Arduino
+description: This project was to create a 3D scanner using the parts of an old 3D printer. I designed the parts in Solidworks and 3D printed them to form the chassis. The core electronics included the arduino UNO, stepper motor drivers, an SD card reader, and a bluetooth module. These components were controlled using the desktop application that I made in Python.
 
 ---
